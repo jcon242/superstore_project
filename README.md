@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard — Power BI
+# Superstore Sales Dashboard
 
 An interactive multi-page Power BI dashboard built on the [Kaggle Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), providing business insights across sales performance, geography & products
 
