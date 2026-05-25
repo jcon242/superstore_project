@@ -2,6 +2,8 @@
 
 An interactive multi-page Power BI dashboard built on the [Kaggle Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), providing business insights across sales performance, geography & products
 
+![me](https://github.com/jcon242/superstore_project/blob/main/gifs/for_github_1.gif)
+
 ## About the Dataset
 
 The Superstore dataset is a widely used fictional US retail dataset available on Kaggle. It contains ~9,994 orders placed between 2014 and 2017 across three product categories (**Furniture**, **Office Supplies**, and **Technology**) sold to customers in the Consumer, Corporate, and Home Office segments.
@@ -15,6 +17,8 @@ It's commonly used for practicing data analysis, visualisation, and business int
 - **Python (Pandas)** - data cleaning and preprocessing (`superstore.ipynb`)
 - **Power BI Desktop** - dashboard design and visualisation
 
+![me](https://github.com/jcon242/superstore_project/blob/main/gifs/code_superstore.gif)
+
 ## Dashboard Pages
 
 | Page | Purpose |
@@ -24,6 +28,10 @@ It's commonly used for practicing data analysis, visualisation, and business int
 | **Product Performance** | Best and worst performing products and sub-categories |
 | **Customer Analysis** | Top customers by revenue and profit, order behaviour |
 | **Shipping Analysis** | Shipping modes, delivery times, and logistics trends |
+
+![me](https://github.com/jcon242/superstore_project/blob/main/gifs/for_github_2.gif)
+
+![me](https://github.com/jcon242/superstore_project/blob/main/gifs/for_github_3.gif)
 
 ## Getting Started
 
