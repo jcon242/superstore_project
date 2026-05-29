@@ -36,8 +36,7 @@ It's commonly used for practicing data analysis, visualisation, and business int
 ## Getting Started
 
 1. Clone or download this repository
-2. Open `Superstore Dashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-3. If prompted, re-link the data source to `store_clean.csv`
+2. Open the [Superstore Dashboard (PDF)](./superstore_dashboard.pdf)
 
 ## Notes
 
